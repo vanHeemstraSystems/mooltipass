@@ -22,3 +22,5 @@
   - Click **Done**.
   - The newly added Multipass device will be listed and its battery level will be shown.
     ![mooltipass-connect-via-bluetooth-004](https://github.com/user-attachments/assets/b9adec2e-7ae3-4a38-9088-7a44ad4b6f07)
+
+**NOTE**: Connecting the Multipass to the computer or power by USB will charge the Multipass battery.
