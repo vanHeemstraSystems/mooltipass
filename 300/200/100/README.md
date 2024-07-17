@@ -7,4 +7,5 @@ This scenario assumes the website (here: Linkwarden) is not in the Multipass dat
 On the computer:
 
 - Enter your credentials on the login page of the website (here: https://cloud.linkwarden.app/login ).
+  ![mooltipass-connect-to-website-001](https://github.com/user-attachments/assets/1f702f5a-22a9-4f7e-b936-f460bea4715f)
 - Click **Login**.
