@@ -9,4 +9,4 @@
 - On the computer:
   - In Settings, go to Bluetooth and click **Add device**:
    ![mooltipass-connect-via-bluetooth-001](https://github.com/user-attachments/assets/9f08164b-2f20-41f5-b1a0-7b13166f4b26)
-  - ...
+  - If listed, choose ```Mooltipass Mini BLE```.
