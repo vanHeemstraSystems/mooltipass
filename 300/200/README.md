@@ -5,4 +5,11 @@ For our example, we will be using Multipass with the website of [Linkwarden](clo
 - Open the login page of the website: https://cloud.linkwarden.app/login
   ![mooltipass-connect-to-website-001](https://github.com/user-attachments/assets/1f702f5a-22a9-4f7e-b936-f460bea4715f)
 - With Multipass active (i.e. connected to the computer on which you browse the website), the ```Username or Email``` field will show a ```person``` icon, and the ```Password``` field will show a ```key``` icon.
-- 
+
+## 100 - Use Multipass with a Website that is not in the Multipass database
+
+See [README.md](./100/README.md)
+
+## 200 - Use Multipass with a Website that is in the Multipass database
+
+See [README.md](./200/README.md)
