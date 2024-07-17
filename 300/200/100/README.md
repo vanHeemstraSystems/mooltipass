@@ -38,3 +38,4 @@ On the Multipass:
 On the computer:
 
 - The credentials will have been sent by the Multipass to the login page, and you are automatically logged in!
+  ![mooltipass-connect-to-website-002](https://github.com/user-attachments/assets/553acdf8-71a9-49ba-b309-dc1e4cb64b53)
