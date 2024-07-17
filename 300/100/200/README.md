@@ -20,3 +20,5 @@
   - The **Add a device** dialogue will state: "Your device is ready to go!```:
     ![mooltipass-connect-via-bluetooth-003](https://github.com/user-attachments/assets/a2b2d129-e9f3-44ff-8655-45238caefb1f)
   - Click **Done**.
+  - The newly added Multipass device will be listed and its battery level will be shown.
+    ![mooltipass-connect-via-bluetooth-004](https://github.com/user-attachments/assets/b9adec2e-7ae3-4a38-9088-7a44ad4b6f07)
