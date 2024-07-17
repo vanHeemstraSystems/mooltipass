@@ -7,6 +7,8 @@ Based on "The Mooltipass" at https://www.themooltipass.com/
 
 Based on "The Mooltipass on YouTube" at https://www.youtube.com/watch?v=e7wtpZ2Q2QI
 
+Based on "Mooltipass Mini BLEU User Manual" at https://raw.githubusercontent.com/mooltipass/minible/master/MooltipassMiniBLEUserManual.pdf
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
