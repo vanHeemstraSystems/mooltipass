@@ -34,3 +34,7 @@ On the Multipass:
   wvanheemstra@icloud.com
   ```
 - Press the wheel to send the credentials to the login page.
+
+On the computer:
+
+- The credentials will have been sent by the Multipass to the login page, and you are automatically logged in!
