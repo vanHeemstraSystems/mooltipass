@@ -1,4 +1,4 @@
-# 300 - Building Our Application
+# 300 - Managing Our Application
 
 ## 100 - Connect to the Multipass
 
