@@ -2,4 +2,4 @@
 
 The Mooltipass application can be installed in several web browsers or operating systems (visit https://www.themooltipass.com/setup/).
 
-
+## 100 - Administrating the Multipass database on the computer from a browser
