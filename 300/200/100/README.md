@@ -6,7 +6,7 @@ This scenario assumes the website (here: Linkwarden) is not in the Multipass dat
 
 On the computer:
 
-- Enter your credentials on the login page of the website (here: https://cloud.linkwarden.app/login ).
+- Enter your credentials on the login page of the website (here: https://cloud.linkwarden.app/login).
   ![mooltipass-connect-to-website-001](https://github.com/user-attachments/assets/1f702f5a-22a9-4f7e-b936-f460bea4715f)
 - Click **Login**.
 - A notification will alert you that a new credential is detected and that you can add it to Multipass.
@@ -19,4 +19,18 @@ On the Multipass:
   Add New Credentials
   wvanheemstra@icloud.com
   ```
-- Press the wheel to accept adding the new credential.
+- The new credentials will be added automatically.
+
+Next time, on the computer:
+
+- Visit the login page of the website (here: https://cloud.linkwarden.app/login). **NOTE**: You do **not** have to enter the credentials at this moment.
+
+On the Multipass:
+
+- The Multipass will prompt:
+  ```
+  linkwarden.app
+  Send Credentials For
+  wvanheemstra@icloud.com
+  ```
+- Press the wheel to send the credentials to the login page.
