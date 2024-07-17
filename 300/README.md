@@ -11,5 +11,3 @@ See [README.md](./200/README.md)
 ## 300 - Administrating the Multipass database
 
 See [README.md](./300/README.md)
-
-MORE
